@@ -1,0 +1,5 @@
+nama= str(input("nama="))
+umur= int(input("umur="))
+tinggi= int(input("tinggi="))
+txt="Nama saya {}, umur saya {} tahun dan tinggi saya {} cm.". format(nama, umur, tinggi)
+print(txt)
